@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Config file (API Keys)
+# API Keys
 config.py
+api_keys.py
