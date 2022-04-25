@@ -5,7 +5,7 @@ This repository contains a Python API Challenge. The challenge consisted of two 
 # Part I: WeatherPy
 Use a python script to visualize the weather of 500+ random cities across the world of varying distance from the equator.
 * Use the data to create a series of scatter plots to show the relationship between Latitude and weather conditions
-* run linear regression on each relationship, separating them into Northern Hemisphere and Southern Hemisphere.
+* Run linear regression on each relationship, separating them into Northern Hemisphere and Southern Hemisphere.
 
 
 # Part II: VacationPy
